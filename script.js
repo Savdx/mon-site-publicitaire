@@ -1,7 +1,8 @@
 const ads = [
-    "https://example.com/pub1",
-    "https://example.com/pub2",
-    "https://example.com/pub3"
+    "https://efooravirarsow.com/4/8994965",
+    "https://efooravirarsow.com/4/8994962",
+    "https://efooravirarsow.com/4/8994961",
+    "https://efooravirarsow.com/4/8994960"
 ];
 
 let currentAd = 0;
